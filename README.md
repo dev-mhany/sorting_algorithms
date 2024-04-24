@@ -31,7 +31,7 @@ This project implements a variety of sorting algorithms in Python. The goal of t
 To get started, clone the repository and install the required dependencies:
 
 ```
-git clone https://github.com/iamnotmato/sorting_algorithmss
+git clone https://github.com/dev-mhany/sorting_algorithmss
 cd sorting_algorithmss
 pip install -r requirements.txt
 ```
@@ -61,4 +61,4 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any questions or support, please contact the maintainer through [GitHub](https://github.com/iamnotnato).
+For any questions or support, please contact the maintainer through [GitHub](https://github.com/dev-mhany).
